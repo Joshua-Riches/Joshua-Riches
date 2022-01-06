@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshua-Riches
 - 👀 I’m interested in ...Technology, Psychology and Business
-- 🌱 I’m currently learning ...Cloud Computing and Python
+- 🌱 I’m currently learning ...Cloud Computing and Python Programming Language
 - 💞️ I’m looking to collaborate on ...any small scale project
 - 📫 How to reach me ...you can reach me on my email at joshuaawoyinfa@gmail.com
 
